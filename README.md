@@ -14,3 +14,5 @@ JWT on CMD (Bash)
    3) `curl -H "Authorization: inVerita ОтриманийТокен" http://localhost:15000`
 
 5) Насолоджуйтесь 🤠
+
+![JWT/CMD](https://github.com/IRONKAGE/User-JWT-Autorization-CMD/blob/master/screenshots/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20-%20cmd%2004.02.2020%2015_00_48.png)
